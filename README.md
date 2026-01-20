@@ -1,8 +1,6 @@
-﻿# Basic Frontend Mentor Challenges solutions
+# Frontend Mentor — Basic Challenge Solutions
 
-This repository is intended to organize my basic challenges. Intermediary and higher difficult ones have their own repository.
+This repository organizes my solutions for basic Frontend Mentor challenges.
+Intermediate and advanced challenges are maintained in their own repositories.
 
-Each subdirectory corresponds to a single challenge available on the [Frontend Mentor](https://www.frontendmentor.io/profile/jvmdo/solutions) platform.
-
-
-
+Each subdirectory represents a single challenge and includes full details, a screencast, and a live preview.
